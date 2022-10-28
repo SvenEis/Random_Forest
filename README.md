@@ -1,2 +1,4 @@
-# Random_Forest
-Final Project for 'Computational Statistics' (University of Bonn, summer term '22)
+# Random Forest - Is the "out-of-the-box" performance optimal?
+This repository contains the final project for the course "Computational Statistics" by Sven Eis (University of Bonn, summer term '22). The course was taught and projects were supervised by Prof. Dr. Lena Janys.
+
+The project deals with the nonparametric statistical learning method called Random Forest. It introduces the theoretical prerequisites and discusses various techniques that can be used to boost its performance. The main part of the project is two simulations that compare the "out-of-the-box" performance of the random forest method with the performance of random forests tuned in various ways. An application to a real data set provides context for the application of the method and analyzes its performance relative to previously used tuning methods.
